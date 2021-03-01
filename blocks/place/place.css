@@ -13,8 +13,7 @@
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
-  .place__image {
-    width: 440px;
+  .place {
     column-gap: 32px;
   }
 }
